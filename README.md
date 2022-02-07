@@ -11,7 +11,9 @@ https://buildship.notion.site/Mew2earn-Pokemon-Battle-web3-game-6f80a6388da749e3
 
 - https://github.com/buildship-dev/pokemon-showdown-client – Main Game UI, adapted for Web3 login
 - https://github.com/mikelun/WebXRPokemons – VR integration
-- https://github.com/theshadowagent/mew2earn-web
+- https://github.com/theshadowagent/mew2earn-web – Nintendo Game wrapper + Web3 login
+- https://www.figma.com/file/CZQbCvTJV0RNgNcs3Ijw9j/Mew2earn – Designs
+- https://github.com/caffeinum/pokemon-contracts Pokemon NFT Contracts
 - Open-source MetaverseNFTFactory (https://polygonscan.com/address/0x3cfef6337e18102c9fdc4b27592b9e5c3d268302#writeContract)
 
 
